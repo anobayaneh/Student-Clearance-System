@@ -1,0 +1,1 @@
+After i-import ang SQL, run muna ang database/seed_passwords.php sa browser para ma-set ang tamang bcrypt passwords.
