@@ -174,8 +174,7 @@ Add screenshots of:
 
 ## 🤝 Contributors
 
-* Your Name
-* Group Members (if applicable)
+- Agtas, Gideon D.
 
 ## 📄 License
 
